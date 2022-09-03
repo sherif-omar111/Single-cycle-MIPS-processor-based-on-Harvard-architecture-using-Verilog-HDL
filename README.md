@@ -14,4 +14,5 @@ Program 2: Factorial Number of 7.
 Program 3: The Fibonacci series numbers.
 The synthesis was done on Intel® Quartus Prime and implemented on Cyclone® IV FPGA.
 
-image.png
+# DataPath
+DataPath.PNG
