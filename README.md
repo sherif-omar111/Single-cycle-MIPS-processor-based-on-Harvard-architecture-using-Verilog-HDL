@@ -16,4 +16,4 @@ The synthesis was done on Intel® Quartus Prime and implemented on Cyclone® IV 
 
 # DataPath
 
-![Screenshot](DataPath.PNG)
+
