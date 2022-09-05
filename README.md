@@ -17,3 +17,9 @@ The synthesis was done on Intel® Quartus Prime and implemented on Cyclone® IV 
 # DataPath
 
 ![Screenshot](DataPath.PNG)
+
+
+
+<img
+  src="F:\Single cycle MIPS processor based on Harvard architecture using Verilog HDL\Flow Summary.PNG"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
