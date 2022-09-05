@@ -15,8 +15,12 @@ Program 3: The Fibonacci series numbers.
 The synthesis was done on Intel® Quartus Prime and implemented on Cyclone® IV FPGA.
 
 # DataPath
-
 ![Screenshot](DataPath.PNG)
 
 
-![My Image](F:\Single cycle MIPS processor based on Harvard architecture using Verilog HDL\Flow Summary.PNG)
+# RTL View
+![Screenshot](RTL View.PNG)
+
+
+# Flow Summary
+![Screenshot](Flow Summary.PNG)
