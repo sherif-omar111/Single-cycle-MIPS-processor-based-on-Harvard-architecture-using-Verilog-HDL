@@ -24,3 +24,4 @@ The synthesis was done on Intel® Quartus Prime and implemented on Cyclone® IV 
 
 # Flow Summary
 ![Screenshot](Flow Summary.PNG)
+
