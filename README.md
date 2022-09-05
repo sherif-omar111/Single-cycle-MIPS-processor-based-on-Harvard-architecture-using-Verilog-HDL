@@ -18,5 +18,10 @@ The synthesis was done on Intel® Quartus Prime and implemented on Cyclone® IV 
 ![Screenshot](DataPath.PNG)
 
 
+# RTL View
+![Screenshot](RTLView.PNG)
 
+
+# Flow Summary
+![Screenshot](FlowSummary.PNG)
 
